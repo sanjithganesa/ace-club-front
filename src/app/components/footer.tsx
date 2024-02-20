@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="h-[100px] flex items-center justify-center ">
             <i className="fas fa-people-group text-3xl p-3 rounded-full shadow-md cursor-pointer"></i>
           </div>
-          <p className="mt-4">
+          <p className="mt-4 ">
             Start your journey into the world of start-ups and innovations by
             becoming a part of our club
           </p>

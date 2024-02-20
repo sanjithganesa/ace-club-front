@@ -12,7 +12,7 @@ export default function Home() {
         <MyComponent/>
         <Navbar/>
         <h1 className={poppins.className}>Transform Ideas</h1>
-        <h1 className={poppins.className}>Transform Ideas</h1>
+  
         <Footer/>
     </main>
   );
