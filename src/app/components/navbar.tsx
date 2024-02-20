@@ -1,15 +1,14 @@
-// navbar.tsx
 'use client';
-import React, { useState } from "react"; // Import React and useState
+import React, { useState } from "react"; 
 import "./Navbar.Styles.css";
 import Button from "./login_button";
 
 
-const Navbar = () => { // Define Navbar as a functional component
-  const [clicked, setClicked] = useState(true); // Use useState hook instead of this.state
+const Navbar = () => { 
+  const [clicked, setClicked] = useState(true); 
 
   const handleclick = () => {
-    setClicked(!clicked); // Use setClicked function instead of this.setState
+    setClicked(!clicked);
   };
 
   return (
