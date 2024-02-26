@@ -1,0 +1,21 @@
+.tabs{
+    background-color: black;
+    margin-bottom:50px;
+    display:flex;
+    flex-direction: row;
+    width:1030px;
+}
+.input{
+    height:40px;
+    margin-left:210px;
+    margin-top:5px;
+    align-items: flex-end;
+    color:white;
+    background-color:rgb(31, 31, 31) ;
+}
+.btn{
+    margin-top:0px;
+    color:white;
+    border-color: rgb(31, 31, 31);
+    background-color:rgb(31, 31, 31) ;
+}
