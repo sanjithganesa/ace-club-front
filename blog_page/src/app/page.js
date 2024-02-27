@@ -1,4 +1,4 @@
-import DaisyCards from "./components/cards1";
+import DaisyCards from "./components/cards";
 import Tabs from "./components/tabs";
 export default function Home() {
   return (

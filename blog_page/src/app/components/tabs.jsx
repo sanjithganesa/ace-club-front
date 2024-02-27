@@ -4,7 +4,7 @@ export default function Tabs()
     return(
         <>
             <div role="tablist" className="tabs tabs-boxed">
-            <button className="btn btn-outline w-30 h-3 mr-3 rounded-full">ALL</button>
+            <button className="btn btn-active btn-outline w-30 h-3 mr-3 rounded-full">ALL</button>
             <button className="btn btn-outline w-30 mr-3 rounded-full">CASE STUDY</button>
             <button className="btn btn-outline w-30 mr-3 rounded-full">DEVELOPERS BLOG</button>
             <button className="btn btn-outline w-30 mr-3 rounded-full">PODCAST</button>

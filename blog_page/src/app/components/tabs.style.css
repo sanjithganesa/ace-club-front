@@ -13,6 +13,9 @@
     color:white;
     background-color:rgb(31, 31, 31) ;
 }
+.btn-active{
+    background-color:rgb(18, 18, 51) ;
+}
 .btn{
     margin-top:0px;
     color:white;
